@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5918" started-at="2020-10-19T17:06:15 PDT" finished-at="2020-10-19T17:06:21 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5918" started-at="2020-10-19T17:06:15 PDT" finished-at="2020-10-19T17:06:21 PDT">
+      <class name="com.TekArch.TestCases.TekArchCalculatorTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.TekArch.TestCases.TekArchCalculatorTest@4493d195]" name="launchBrowser" is-config="true" duration-ms="8730" started-at="2020-10-19T17:06:07 PDT" finished-at="2020-10-19T17:06:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="triggerDependency()[pri:0, instance:com.TekArch.TestCases.TekArchCalculatorTest@4493d195]" name="triggerDependency" is-config="true" duration-ms="35" started-at="2020-10-19T17:06:15 PDT" finished-at="2020-10-19T17:06:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- triggerDependency -->
+        <test-method status="PASS" signature="TekArchCalculator()[pri:0, instance:com.TekArch.TestCases.TekArchCalculatorTest@4493d195]" name="TekArchCalculator" duration-ms="5798" started-at="2020-10-19T17:06:16 PDT" finished-at="2020-10-19T17:06:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TekArchCalculator -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.TekArch.TestCases.TekArchCalculatorTest@4493d195]" name="CloseBrowser" is-config="true" duration-ms="971" started-at="2020-10-19T17:06:21 PDT" finished-at="2020-10-19T17:06:22 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.TekArch.TestCases.TekArchCalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

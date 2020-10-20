@@ -1,0 +1,68 @@
+2020-10-19 12:53:49,679 - TekArch -INFO - URL Opened
+2020-10-19 12:53:51,232 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (0518a088a3860253838fd2f9ed7fa719)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 12:53:51,232 - TekArch -INFO - Login Success
+2020-10-19 12:54:40,709 - TekArch -INFO - URL Opened
+2020-10-19 12:54:42,253 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (6006d8973c8f4e974a1e4b05d9a1b634)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 12:54:42,253 - TekArch -INFO - Login Success
+2020-10-19 12:54:45,948 - TekArch -INFO - click calculator
+2020-10-19 12:55:25,623 - TekArch -INFO - URL Opened
+2020-10-19 12:55:27,141 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b539db76c8335d3ba67a5752847ed82a)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 12:55:27,143 - TekArch -INFO - Login Success
+2020-10-19 12:55:30,331 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (b539db76c8335d3ba67a5752847ed82a)] -> xpath: //img[contains(@src,'data')]]
+2020-10-19 12:55:30,331 - TekArch -INFO - Picture Uploaded Successful
+2020-10-19 13:19:24,031 - TekArch -INFO - URL Opened
+2020-10-19 13:19:25,674 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e8b906a9ee5f151c85dd8bd98da003a7)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 13:19:25,675 - TekArch -INFO - Login Success
+2020-10-19 13:24:24,673 - TekArch -INFO - URL Opened
+2020-10-19 13:24:27,393 - TekArch -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (55b4ede6716b71ad3e7423d354efb52f)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 13:24:27,394 - TekArch -INFO - Login Success
+2020-10-19 13:37:06,999 - TekArchloginTest -INFO - URL Opened
+2020-10-19 13:37:08,547 - TekArchloginTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (12a10c16535e6df60325f741ef151c9d)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 13:37:08,548 - TekArchloginTest -INFO - Login Success
+2020-10-19 13:38:25,321 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 13:38:26,967 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (002b6036f451c99633166ae6bdcdf328)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 13:38:26,968 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 13:38:30,545 - TekArchCalculatorTest -INFO - click calculator
+2020-10-19 13:39:33,702 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 13:39:35,483 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (e70d3065c6dc90b5b50c5ffbdd6bd029)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 13:39:35,484 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 13:39:39,057 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 14:03:19,877 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 14:03:21,491 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (f2158e1a59e1811f84c42f7d9ec328d5)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 14:03:21,491 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 14:03:25,110 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 14:04:31,307 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 14:04:33,012 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (4ea6b60de08808defd8b34fab55a2182)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 14:04:33,013 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 14:04:37,179 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 14:24:43,634 - TekArchloginTest -INFO - URL Opened
+2020-10-19 14:24:45,224 - TekArchloginTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (8572b96a29faf1e11a4712ef019537e6)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 14:24:45,225 - TekArchloginTest -INFO - Login Success
+2020-10-19 16:32:19,756 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 16:32:21,367 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (84e0d9b78c00609cadf1d75ce28a7738)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 16:32:21,368 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 16:32:25,464 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 16:35:47,974 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 16:35:49,574 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d189487cdccfef1f8a0a63dc5cb908ef)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 16:35:49,575 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 16:35:53,638 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 16:41:30,175 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 16:41:31,792 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (936d6e49ea8106e649163f8806e92ec3)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 16:41:31,792 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 16:41:35,721 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 16:48:55,379 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 16:48:56,949 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (85d6b70a1291ec3966ebffd243246b91)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 16:48:56,950 - TekArchCalculatorTest -INFO - Login Success
+2020-10-19 16:49:00,928 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 16:55:23,182 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 16:55:24,754 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (3b2325a4682c52073452d546b995ed18)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 16:55:24,755 - TekArchCalculatorTest -INFO - Calculator Starts
+2020-10-19 16:55:28,706 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 17:02:09,580 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 17:02:11,642 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (d9ec00519070a8c261e7e03c64cc9f0e)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 17:02:11,643 - TekArchCalculatorTest -INFO - Calculator Starts
+2020-10-19 17:02:15,573 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
+2020-10-19 17:06:16,074 - TekArchCalculatorTest -INFO - URL Opened
+2020-10-19 17:06:17,614 - TekArchCalculatorTest -INFO - Element Displayed : [[ChromeDriver: chrome on WINDOWS (369105d4a8edbfd03e21b138eb39885b)] -> xpath: //a[contains(text(),'Home')]]
+2020-10-19 17:06:17,614 - TekArchCalculatorTest -INFO - Calculator Starts
+2020-10-19 17:06:21,531 - TekArchCalculatorTest -INFO - Get Added number Results in calculator
